@@ -1,0 +1,120 @@
+{
+  "Advanced Graphs": {
+    "Path With Maximum Probability": {
+      "url": "https://leetcode.com/problems/path-with-maximum-probability/",
+      "difficulty": "Medium"
+    },
+    "Path With Minimum Effort": {
+      "url": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "difficulty": "Medium"
+    },
+    "Find Minimum Time to Reach Last Room II": {
+      "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+      "difficulty": "Medium"
+    },
+    "Shortest Path to Get Food": {
+      "url": "https://leetcode.com/problems/shortest-path-to-get-food/",
+      "difficulty": "Medium"
+    },
+    "Minimum Cost to Make at Least One Valid Path in a Grid": {
+      "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+      "difficulty": "Hard"
+    },
+    "Modified Dijkstra's": {
+      "url": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/",
+      "difficulty": "Medium"
+    },
+    "Find Critical and Pseudo-Critical Edges in MST": {
+      "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+      "difficulty": "Hard"
+    },
+    "Remove Max Number of Edges to Keep Graph Fully Traversable": {
+      "url": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/",
+      "difficulty": "Hard"
+    },
+    "Parallel Courses": {
+      "url": "https://leetcode.com/problems/parallel-courses/",
+      "difficulty": "Medium"
+    },
+    "Sort Items by Groups Respecting Dependencies": {
+      "url": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+      "difficulty": "Hard"
+    },
+    "Critical Connections in a Network": {
+      "url": "https://leetcode.com/problems/critical-connections-in-a-network/",
+      "difficulty": "Hard"
+    }
+  },
+  "Dynamic Programming": {
+    "Longest Common Substring": {
+      "url": "https://leetcode.com/problems/longest-common-substring/",
+      "difficulty": "Medium"
+    },
+    "Maximum Product Subarray": {
+      "url": "https://leetcode.com/problems/maximum-product-subarray/",
+      "difficulty": "Medium"
+    },
+    "Matrix Chain Multiplication": {
+      "url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+      "difficulty": "Hard"
+    }
+  },
+  "Backtracking": {
+    "Sudoku Solver": {
+      "url": "https://leetcode.com/problems/sudoku-solver/",
+      "difficulty": "Hard"
+    }
+  },
+  "Math": {
+    "GCD of Strings": {
+      "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "difficulty": "Easy"
+    },
+    "Count Primes": {
+      "url": "https://leetcode.com/problems/count-primes/",
+      "difficulty": "Medium"
+    }
+  },
+  "Trees": {
+    "Range Sum Query - Mutable": {
+      "url": "https://leetcode.com/problems/range-sum-query-mutable/",
+      "difficulty": "Medium"
+    }
+  },
+  "Strings": {
+    "Find the Index of the First Occurrence in a String": {
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "difficulty": "Easy"
+    }
+  },
+  "Arrays & Hashing": {
+    "Subarray Sum Equals K": {
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "difficulty": "Medium"
+    },
+    "Find Pivot Index": {
+      "url": "https://leetcode.com/problems/find-pivot-index/",
+      "difficulty": "Easy"
+    }
+  },
+  "Simulation": {
+    "Robot Bounded In Box": {
+      "url": "https://leetcode.com/problems/robot-bounded-in-box/",
+      "difficulty": "Medium"
+    }
+  },
+  "Advanced Topics": {
+    "The Skyline Problem": {
+      "url": "https://leetcode.com/problems/the-skyline-problem/",
+      "difficulty": "Hard"
+    },
+    "Stone Game": {
+      "url": "https://leetcode.com/problems/stone-game/",
+      "difficulty": "Medium"
+    },
+    "Unique Paths II": {
+      "url": "https://leetcode.com/problems/unique-paths-ii/",
+      "difficulty": "Medium"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8ac76abb-c77a-4c57-af13-ae138b54bab3",
+    "username": "user_demo",
+    "email": "demo@example.com",
+    "password": "$2b$10$ZYXrjWyNeDP5t/RDWcYaMevkM5uGNhOIcslB7ZeGMf7hr.FpDVoA6",
+    "createdAt": "2026-03-19T06:10:43.132Z"
+  },
+  {
+    "id": "c4ffbdbc-a737-4a68-93b8-b31e913ed3f7",
+    "username": "isolation_test",
+    "email": "iso@example.com",
+    "password": "$2b$10$cruiN0bq/58zuVjR8rAoke5UmKgG/SE4pOl38X0sDLFIPsA3sGUK6",
+    "createdAt": "2026-03-19T06:12:10.481Z"
+  },
+  {
+    "id": "6ad49a05-5704-4c89-928f-bdc81b691cbb",
+    "username": "Slora Bar",
+    "email": "barslora1806@gmail.com",
+    "password": "$2b$10$8r4abckM8vLWjkwO73NuEuw95X/s31Y9CR.Zm4nyCRkIjP/UA8SeC",
+    "createdAt": "2026-03-19T06:14:43.773Z"
+  },
+  {
+    "id": "cf14feb6-ffa2-4b45-9b00-c727dc975b93",
+    "username": "Test",
+    "email": "test@gmail.com",
+    "password": "$2b$10$JfkHgsd2TehuNHsJNEq4au778gKXCs5oQo9z2t6pxHNNT5aB/lrVa",
+    "createdAt": "2026-03-19T06:15:03.752Z"
+  }
+]

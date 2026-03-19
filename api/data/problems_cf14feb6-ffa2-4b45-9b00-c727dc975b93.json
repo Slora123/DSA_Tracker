@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2b01b415-4fd2-4d59-a59c-18bd44501c16",
+    "name": "Course Schedule",
+    "platform": "LeetCode",
+    "concept": "Graphs",
+    "difficulty": "Medium",
+    "leetcodeLink": "https://leetcode.com/problems/course-schedule/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-27T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  },
+  {
+    "id": "0bc80a17-ff43-4cd6-94ce-0ab8cfa67b31",
+    "name": "Course Schedule II",
+    "platform": "LeetCode",
+    "concept": "Graphs",
+    "difficulty": "Medium",
+    "leetcodeLink": "https://leetcode.com/problems/course-schedule-ii/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-28T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  }
+]

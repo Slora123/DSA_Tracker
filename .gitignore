@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Local Environment / Secrets
+.env
+client/.env
+server/.env
+*.local
+
+# Build outputs
+client/dist/
+dist/
+dist-ssr/
+
+# System files
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# User Data & Databases (DO NOT COMMIT)
+server/data/users.json
+server/data/database.json
+server/data/problems_*.json
+
+# Keep static resources in data
+!server/data/neetcode150.json
+!server/data/leetcode_extras.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*

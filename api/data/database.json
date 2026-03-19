@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0ecc5abe-9a4b-42ff-86f4-c5f1c9859c4b",
+    "name": "Valid Anagram",
+    "platform": "LeetCode",
+    "concept": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "leetcodeLink": "https://leetcode.com/problems/valid-anagram/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-27T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  },
+  {
+    "id": "7d19e7d0-b92b-49e9-b8cb-a196a4d49f7d",
+    "name": "Group Anagrams",
+    "platform": "LeetCode",
+    "concept": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "leetcodeLink": "https://leetcode.com/problems/group-anagrams/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-28T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  },
+  {
+    "id": "cb238fcf-3f82-4f72-be48-cb23eb13f29b",
+    "name": "Encode and Decode Strings",
+    "platform": "LeetCode",
+    "concept": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "leetcodeLink": "https://leetcode.com/problems/encode-and-decode-strings/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-27T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  },
+  {
+    "id": "002e6366-dbce-46e7-b72f-7ab324248d27",
+    "name": "Valid Palindrome",
+    "platform": "LeetCode",
+    "concept": "Two Pointers",
+    "difficulty": "Easy",
+    "leetcodeLink": "https://leetcode.com/problems/valid-palindrome/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-28T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  },
+  {
+    "id": "70bc8ca6-0b55-411f-a61a-f4a449ecb9c1",
+    "name": "Longest Substring Without Repeating Characters",
+    "platform": "LeetCode",
+    "concept": "Sliding Window",
+    "difficulty": "Medium",
+    "leetcodeLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "dateSolved": "2026-03-19T00:00:00.000Z",
+    "solveHistory": [
+      "2026-03-19T00:00:00.000Z"
+    ],
+    "daysTaken": 1,
+    "nextRevisionDate": "2026-03-27T18:30:00.000Z",
+    "revisionStatus": "Pending",
+    "revisionCount": 0
+  }
+]
