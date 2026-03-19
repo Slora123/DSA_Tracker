@@ -15,7 +15,9 @@
   },
   "scripts": {
     "build": "cd client && npm install && npm run build",
-    "install-all": "npm install && cd client && npm install"
+    "install-all": "npm install && cd client && npm install",
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.1",
